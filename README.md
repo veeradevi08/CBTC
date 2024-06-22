@@ -20,7 +20,7 @@ EventPlanner360 is an all-in-one event management platform enabling users to pla
 
 ## Screenshots
 
-![EventPlanner360 Screenshot](header-bg.jpg)
+![EventPlanner360 Screenshot](background.jpg)
 
 ## Technologies Used
 
